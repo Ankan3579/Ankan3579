@@ -1,4 +1,4 @@
-![logo](https://github.com/Ankan3579/Ankan3579/blob/main/WhatsApp%20Image%202025-12-05%20at%208.08.10%20PM.jpeg)
+![logo](https://github.com/Ankan3579/Ankan3579/blob/main/cybersecurity-concept-illustration.jpg)
 <h1 align="center">Hi 👋, I'm Ankan Paramanik</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="codding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
