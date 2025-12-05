@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan3579&label=Profile%20views&color=0e75b6&style=flat" alt="ankan3579" /> </p>
 
-- 🌱 I’m currently learning **Computer Science Engineering**
+- 🌱 I’m 1st year **Computer Science Student**
 
 - 💬 Ask me about **I am serious in my work but also funny**
 
