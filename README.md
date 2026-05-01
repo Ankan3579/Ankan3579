@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankan Paramanik</h1>
-<h3 align="center">A AI product Engineer </h3>
+<h3 align="center"> AI product Engineer </h3>
 <img align="right" alt="codding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan3579&label=Profile%20views&color=0e75b6&style=flat" alt="ankan3579" /> </p>
